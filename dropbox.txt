@@ -1,0 +1,90 @@
+------ DROPBOX SYSTEM SERVER NATIVE CRASHES (/system/bin/dumpsys -T 1000 dropbox -p system_server_native_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_server_native_crash
+
+(No entries found.)
+------ 0.066s was the duration of 'DROPBOX SYSTEM SERVER NATIVE CRASHES' ------
+------ DROPBOX SYSTEM SERVER CRASHES (/system/bin/dumpsys -T 1000 dropbox -p system_server_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_server_crash
+
+(No entries found.)
+------ 0.036s was the duration of 'DROPBOX SYSTEM SERVER CRASHES' ------
+------ DROPBOX SYSTEM WATCHDOG CRASHES (/system/bin/dumpsys -T 1000 dropbox -p system_server_watchdog) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_server_watchdog
+
+(No entries found.)
+------ 0.021s was the duration of 'DROPBOX SYSTEM WATCHDOG CRASHES' ------
+------ DROPBOX SYSTEM SERVER ANR (/system/bin/dumpsys -T 1000 dropbox -p system_server_anr) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_server_anr
+
+(No entries found.)
+------ 0.024s was the duration of 'DROPBOX SYSTEM SERVER ANR' ------
+------ DROPBOX SYSTEM APP CRASHES (/system/bin/dumpsys -T 1000 dropbox -p system_app_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_app_crash
+
+(No entries found.)
+------ 0.028s was the duration of 'DROPBOX SYSTEM APP CRASHES' ------
+------ DROPBOX SYSTEM APP NATIVE CRASHES (/system/bin/dumpsys -T 1000 dropbox -p system_app_native_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_app_native_crash
+
+(No entries found.)
+------ 0.032s was the duration of 'DROPBOX SYSTEM APP NATIVE CRASHES' ------
+------ DROPBOX SYSTEM APP ANR (/system/bin/dumpsys -T 1000 dropbox -p system_app_anr) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: system_app_anr
+
+(No entries found.)
+------ 0.036s was the duration of 'DROPBOX SYSTEM APP ANR' ------
+------ DROPBOX DATA APP NATIVE CRASHES (/system/bin/dumpsys -T 1000 dropbox -p data_app_native_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: data_app_native_crash
+
+(No entries found.)
+------ 0.049s was the duration of 'DROPBOX DATA APP NATIVE CRASHES' ------
+------ DROPBOX DATA APP CRASHES (/system/bin/dumpsys -T 1000 dropbox -p data_app_crash) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: data_app_crash
+
+(No entries found.)
+------ 0.043s was the duration of 'DROPBOX DATA APP CRASHES' ------
+------ DROPBOX DATA APP ANR (/system/bin/dumpsys -T 1000 dropbox -p data_app_anr) ------
+Drop box contents: 448 entries
+Max entries: 1000
+Low priority rate limit period: 2000 ms
+Low priority tags: {data_app_wtf, keymaster, system_server_wtf, system_app_strictmode, system_app_wtf, system_server_strictmode, data_app_strictmode, netstats}
+Searching for: data_app_anr
+
+(No entries found.)
+------ 0.032s was the duration of 'DROPBOX DATA APP ANR' ------
